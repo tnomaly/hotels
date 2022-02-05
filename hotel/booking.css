@@ -1,0 +1,18 @@
+#booking{
+		background-color: #bababa;
+		width: 2000px;
+		height: 680px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		margin-left: -10px;
+		margin-right: -10px;
+	}
+	#bookingd{
+		background-color: #545251;
+		width: 550px;
+		height: 600px;
+		margin-top: -650px;
+		border-radius: 150px;
+		color: white;
+		font-family: arial;
+}
